@@ -222,4 +222,4 @@ For issues, questions, or suggestions:
 
 ---
 
-*Last Updated: August 2026*
+*Last Updated: August 2024*
