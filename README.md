@@ -102,19 +102,7 @@ Shootem/
 - **Build**: Go to `File → Build and Run` to create a standalone build
 
 ---
-
-## 🎮 Controls
-
-| Action | Key |
-|--------|-----|
-| **Move** | WASD or Arrow Keys |
-| **Shoot** | Left Mouse Button / Space |
-| **Pause** | ESC or P |
-| **Aim** | Mouse Movement |
-
-*Controls may vary - check in-game settings for customization*
-
----
+ 
 
 ## 💻 Development
 
@@ -209,14 +197,7 @@ For issues, questions, or suggestions:
 - Provide detailed descriptions and steps to reproduce bugs
 
 ---
-
-## 🎉 Acknowledgments
-
-- **Original Project**: [OG-Enoch/Shootem](https://github.com/OG-Enoch/Shootem)
-- **Unity Community**: For resources and best practices
-- **Contributors**: All those who help improve the game
-
----
+ 
 
 **Happy Shooting! 🔫**
 
